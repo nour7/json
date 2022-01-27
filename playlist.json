@@ -6,7 +6,157 @@
             "version": "ATMOS v4",
             "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/20210921_ScamCalls-ATMOS_V4.mp4",
             "image": "assets/default1.png"
-        }
+        },
+        {
+            "title": "One Family's Fight Against the Dixie Fire",
+            "version": "ATMOS: Dry dialogue with tighter narration",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/20210920_TD_MASTERSUBMIX-JC_ATMOS_CW_MIX_1020.mp4",
+            "image": "assets/default2.png"
+          },
+          {
+            "title": "Colorado Turbine",
+            "version": "1st-Order Ambisonic",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/AmbisonicTests/ColoradoTurbines.mp4",
+            "image": "assets/default2.png"
+          },
+          {
+            "title": "Sils Maria Bells",
+            "version": "1st-Order Ambisonic",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/AmbisonicTests/SilsMariaBells.mp4",
+            "image": "assets/default2.png"
+          },
+          {
+            "title": "Sils Maria Windmills",
+            "version": "1st-Order Ambisonic",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/AmbisonicTests/SilsMariaWindmills.mp4",
+            "image": "assets/default2.png"
+          },
+          {
+            "title": "Singing Workshop",
+            "version": "Recorded with H2N",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/H2N_Samples/SingingWorkshop_H2N.mp4",
+            "image": "assets/default1.png"
+          },
+          {
+            "title": "Sound Installation",
+            "version": "Recorded with H2N",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/H2N_Samples/SoundInstallation_H2N_V2.mp4",
+            "image": "assets/default1.png"
+          },
+          {
+            "title": "Seaside Sample",
+            "version": "Recorded with H2N",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/H2N_Samples/SeasideSample_H2N.mp4",
+            "image": "assets/default1.png"
+          },
+            {
+            "title": "Venice Beach Skatepark",
+            "version": "Recorded with M/S",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/VeniceBeachSkatepark.mp4",
+            "image": "assets/default1.png"
+          },
+          {
+            "title": "Kill The Bill",
+            "version": "Binaural SoundMan, Width:50, Film",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/KillTheBill/KILLTHEBILLATMOS_v1x-50film.mp4",
+            "image": "assets/default1.png"
+          },
+             {
+            "title": "Kill The Bill",
+            "version": "Binaural SoundMan, Width:96, Music",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/KillTheBill/KILLTHEBILLATMOS_v1x-96Music.mp4",
+            "image": "assets/default1.png"
+          },
+          {
+            "title": "DIA Test - BUSS",
+            "version": "ATMOS, DIA BUSS - Binaural OFF",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_Buss_BinauralOFF.mp4",
+            "image": "assets/default1.png"
+          },
+          {
+            "title": "DIA Test - BUSS",
+            "version": "ATMOS, DIA BUSS - Binaural NEAR",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_Buss_BinauralNEAR.mp4",
+            "image": "assets/default1.png"
+          },
+            {
+            "title": "DIA Test - BUSS",
+            "version": "ATMOS, DIA BUSS - Binaural FAR",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_Buss_BinauralFAR.mp4",
+            "image": "assets/default1.png"
+          },
+            {
+            "title": "DIA Test - BUSS - RENDERER",
+            "version": "ATMOS, DIA BUSS - Binaural [OFF, NEAR, FAR]",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/ControlExports/Buss_[OFF-FAR].aif",
+            "image": "assets/default1.png"
+          },
+          {
+            "title": "DIA Test - OBJ",
+            "version": "ATMOS, DIA OBJ - Size 0 - Binaural OFF",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_BinauralOFF.mp4",
+            "image": "assets/default1.png"
+          },
+            {
+            "title": "DIA Test - OBJ",
+            "version": "ATMOS, DIA OBJ - Size 0 - Binaural NEAR",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_BinauralNEAR.mp4",
+            "image": "assets/default1.png"
+          },
+            {
+            "title": "DIA Test - OBJ",
+            "version": "ATMOS, DIA OBJ - Size 0 - Binaural FAR",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_BinauralFAR.mp4",
+            "image": "assets/default1.png"
+          },
+            {
+            "title": "DIA Test - OBJ - RENDERER",
+            "version": "ATMOS, DIA OBJ - Binaural [OFF, NEAR, FAR]",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/ControlExports/OBJ_Size0_[OFF-FAR].aif",
+            "image": "assets/default1.png"
+          },
+            {
+            "title": "DIA Test - OBJ 100",
+            "version": "ATMOS, DIA OBJ - Size 100 - Binaural OFF",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_size100_BinauralOFF.mp4",
+            "image": "assets/default1.png"
+          },
+            {
+            "title": "DIA Test - OBJ 100",
+            "version": "ATMOS, DIA OBJ - Size 100 - Binaural NEAR",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_size100_BinauralNEAR.mp4",
+            "image": "assets/default1.png"
+          },
+            {
+            "title": "DIA Test - OBJ 100",
+            "version": "ATMOS, DIA OBJ - Size 100 - Binaural FAR",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_size100_BinauralFAR.mp4",
+            "image": "assets/default1.png",
+          },
+            {
+            "title": "DIA Test - OBJ Size 100 - RENDERER",
+            "version": "ATMOS, DIA OBJ Size 100 - Binaural [OFF, NEAR, FAR]",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/ControlExports/OBJ_Size100_[OFF-FAR].aif",
+            "image": "assets/default1.png"
+          },
+           {
+            "title": "DIA Test - OBJ 100",
+            "version": "ATMOS, DIA OBJ FAR- Size 100 - Binaural OFF",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_FAR_size100_BinauralOFF.mp4",
+            "image": "assets/default1.png",
+          },
+            {
+            "title": "DIA Test - OBJ 100",
+            "version": "ATMOS, DIA OBJ FAR- Size 100 - Binaural NEAR",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_FAR_size100_BinauraNEAR.mp4",
+            "image": "assets/default1.png",
+          },
+            {
+            "title": "DIA Test - OBJ 100",
+            "version": "ATMOS, DIA OBJ FAR- Size 100 - Binaural FAR",
+            "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_FAR_size100_BinauraFAR.mp4",
+            "image": "assets/default1.png",
+          }
     ],
     "ac4":
     [
