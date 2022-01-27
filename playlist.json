@@ -131,7 +131,7 @@
             "title": "DIA Test - OBJ 100",
             "version": "ATMOS, DIA OBJ - Size 100 - Binaural FAR",
             "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_size100_BinauralFAR.mp4",
-            "image": "assets/default1.png",
+            "image": "assets/default1.png"
           },
             {
             "title": "DIA Test - OBJ Size 100 - RENDERER",
@@ -143,26 +143,26 @@
             "title": "DIA Test - OBJ 100",
             "version": "ATMOS, DIA OBJ FAR- Size 100 - Binaural OFF",
             "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_FAR_size100_BinauralOFF.mp4",
-            "image": "assets/default1.png",
+            "image": "assets/default1.png"
           },
             {
             "title": "DIA Test - OBJ 100",
             "version": "ATMOS, DIA OBJ FAR- Size 100 - Binaural NEAR",
             "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_FAR_size100_BinauraNEAR.mp4",
-            "image": "assets/default1.png",
+            "image": "assets/default1.png"
           },
             {
             "title": "DIA Test - OBJ 100",
             "version": "ATMOS, DIA OBJ FAR- Size 100 - Binaural FAR",
             "path": "https://storage.googleapis.com/rd-big-files/Spatial-Audio/TestExports/20210921_ScamCalls-ATMOS_V4_Size5_OBJ_FAR_size100_BinauraFAR.mp4",
-            "image": "assets/default1.png",
+            "image": "assets/default1.png"
           }
     ],
     "ac4":
     [
-        { "title":"A","version":"Test","path":"bbb","image":"xxx" },
-        { "title":"A","version":"Test","path":"bbb","image":"xxx" },
-        { "title":"A","version":"Test","path":"bbb","image":"xxx" }
+        { "title":"Testing AC4 file","version":"AC4 Atmos DDA","path":"bbb", "image": "assets/default1.png"},
+        { "title":"IS there any solution?","version":"AC4 Binaural","path":"bbb", "image": "assets/default1.png" },
+        { "title":"Covid is here to stay!","version":"AC4 NexPlayer","path":"bbb", "image": "assets/default1.png" }
     ],
     "mach1":
     [
