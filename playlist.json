@@ -12,6 +12,12 @@
             "version": "ATMOS DD+",
             "path": "https://storage.googleapis.com/rd-spatial-audio-ios-app/audio/20210920_DixieFire_ATMOS_V5_dd%2B.mp4",
             "image": "assets/default2.png"
+          },
+          {
+            "title": "One Family's Fight Against the Dixie Fire",
+            "version": "ATMOS DD+",
+            "path": "https://storage.googleapis.com/rd-spatial-audio-ios-app/audio/20210920_DixieFire_ATMOS_V5_dd%2B.mp4",
+            "image": "assets/default2.png"
           }
     ],
     "ac4":
@@ -28,7 +34,6 @@
             "path": "https://storage.googleapis.com/rd-spatial-audio-ios-app/audio/20210920_DixieFire_ATMOS_V5_ac4.mp4",
             "image": "assets/default2.png"
         }
-
     ],
     "mach1":
     [
@@ -41,7 +46,7 @@
         {
             "title": "One Family's Fight Against the Dixie Fire",
             "version": "Mach 1",
-            "path": "https://storage.googleapis.com/rd-spatial-audio-ios-app/audio/20210920_DixieFire_ATMOS_V5_mach1.aac",
+            "path": "https://storage.googleapis.com/rd-spatial-audio-ios-app/audio/20210920_DixieFire_ATMOS_V5_mach1.wav",
             "image": "assets/default2.png"
         }
     ]
